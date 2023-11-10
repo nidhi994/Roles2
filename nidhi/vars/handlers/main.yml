@@ -1,0 +1,6 @@
+---
+- name: Restart service
+  service: 
+    name: "{{ svc_name }}"
+    state: restarted
+# handlers file for nidhi

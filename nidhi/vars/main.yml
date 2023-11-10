@@ -1,0 +1,6 @@
+software_name: apache
+pkg_name: httpd
+location: /var/www/html
+svc_name: httpd
+
+
